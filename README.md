@@ -1,16 +1,16 @@
-# Run Buddy, Inc
+# Run Buddy, Inc. 
 
 ## Purpose
 A website that offers fitness training services. 
 
 ## Built With
 * HTML
-* CSS
+* CSS   
 
 ## Website
-https://bslockhart.github.io/run-buddy/
+https://bslockhart.github.io/Run-Buddy-Page/
 
 ## Contribution
 Made with ❤️ by Brian Lockhart
 
-### ©️2022 Run Buddy, Inc # Run-Buddy-Page
+### ©️2022 Run Buddy, Inc # Run-Buddy-Page.
